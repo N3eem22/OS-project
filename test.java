@@ -14,4 +14,5 @@ import java.util.logging.Logger;
 class main {
     System.out.print("hello");
     //hi
+    //hi
 }
