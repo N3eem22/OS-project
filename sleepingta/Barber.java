@@ -9,7 +9,7 @@ package sleepingta;
  *
  * @author mahmo
  */
-public class Barber implements Runnable{
+public class Barber implements Runnable {
 
     private Shop shop;
     private int BA_ID;
@@ -18,3 +18,4 @@ public class Barber implements Runnable{
         this.shop = shop;
         this.BA_ID = BA_ID;
     }
+}
